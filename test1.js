@@ -1,2 +1,1 @@
-console.log("test practise")
 console.log("test practise 1")
